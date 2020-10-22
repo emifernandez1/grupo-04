@@ -46,7 +46,7 @@
 ### Integrantes del grupo:
 
 - Ramiro Ninni: Soy profesor de música y licenciado en artes.
-- Emiliano Fernandez.
+- Emiliano Fernandez.soy empleado de comercio y deseo cambiar de trabajo
 - Julian Eloy Lopez Zarzoso: 1 año aprobado de ingenieria en sistemas, me gusta mucho la musica mi pasatiempos es ser Dj.
 - Diego Valdés: me gusta la tecnologia y el diseño.
 
